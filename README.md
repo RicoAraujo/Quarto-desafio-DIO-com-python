@@ -1,1 +1,5 @@
-# Quarto-desafio-DIO-com-python
+# Quarto Projeto DIO
+
+string = input("Olá a todos")
+
+print string
